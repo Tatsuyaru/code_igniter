@@ -1,0 +1,67 @@
+#liste {
+    border: medium solid #333333;
+    border-collapse: collapse;
+    width: 100%;
+}
+.th {
+    font-family: monospace;
+    border: thin solid ;
+    color:white;
+    padding: 5px;
+    background-color:#333333;
+
+}
+
+.case{
+    font-family: sans-serif;
+    border: thin solid #333333;
+    padding: 20px;
+    text-align: center;
+    background-color: #ffffff;
+    
+}
+
+
+.icon{                                  /*taille image liste */
+
+    width:70px;
+    height:70px;
+
+
+}
+
+span{                                   /* message erreur java script */
+    color: red;
+   font-weight:bold;
+    
+    }
+    
+
+
+#idliste{
+
+color:black;
+font-weight:bold;
+text-decoration:underline;
+font-size: 20px;
+
+}
+
+#buttonliste{
+
+background-color:#DF013A;
+border:solid;
+
+
+}
+
+
+
+.msg_erreur{
+color:red;
+}
+    .panier{
+
+width:50px;
+}
+    
